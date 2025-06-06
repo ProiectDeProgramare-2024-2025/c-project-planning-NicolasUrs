@@ -1,0 +1,6 @@
+attempt_word1_1749214335 word1 Nicolas Fri Jun 06 15:52:15 2025 Won
+attempt_word99_1749219394 word99 maicatereza Fri Jun 06 17:16:34 2025 Won
+attempt_word99_1749219417 word99 maicatereza Fri Jun 06 17:16:57 2025 Won
+attempt_word80_1749223745 word80 nicolas Fri Jun 06 18:29:05 2025 Lost
+attempt_word90_1749227068 word90 unknown Fri Jun 06 19:24:28 2025 Unknown
+attempt_word85_1749227118 word85 iustin Fri Jun 06 19:25:18 2025 Lost
